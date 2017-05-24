@@ -15,4 +15,10 @@ Package.json - This contains all the config info for webapack and npm.
 
 Webpack.config.js - This is a weback file that defines certain dependencies, plugins and output file name. 
 
-
+JS
+  - components
+    - attraction
+      - ArtistName.js
+    - event
+    - Layout.js
+  - client.js / client.min.j
